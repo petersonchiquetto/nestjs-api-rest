@@ -1,5 +1,4 @@
-````markdown
-# NestJS RESTful API
+# Nest.JS API Restful  🧠
 
 A RESTful API built with [NestJS](https://nestjs.com/), following best practices for scalable, modular, and secure backend applications. It includes authentication, integration with a database, and Docker support for easy deployment.
 
@@ -132,9 +131,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-> Created with ❤️ using NestJS by [@petersonchiquetto](https://github.com/petersonchiquetto)
-
-```
-
----
+> Created with using NestJS by [@petersonchiquetto](https://github.com/petersonchiquetto)
 
